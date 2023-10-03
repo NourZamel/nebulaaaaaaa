@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nebulaaaaaaa
-- 👀 I’m interested in programming, music production, and food.
+- 👀 I’m interested in programming and music production.
 - 🌱 I’m currently learning computer science @ AUB
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
