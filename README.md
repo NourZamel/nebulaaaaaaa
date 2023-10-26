@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @nebulaaaaaaa
+- 👋 Hi, I’m @nourzamel
+  
 - 👀 I’m interested in programming and music production.
 - 🌱 I’m currently learning computer science @ AUB
 - 💞️ I’m looking to collaborate on ...
